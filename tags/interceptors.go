@@ -4,7 +4,7 @@
 package grpc_ctxtags
 
 import (
-	"github.com/grpc-ecosystem/go-grpc-middleware"
+	"github.com/fangwendong/go-grpc-middleware"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
